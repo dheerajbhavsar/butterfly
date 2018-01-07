@@ -9,6 +9,11 @@ Blue
 White
 Violet
 
+Followings are primary colors:
+Red
+Green
+Blue
+=======
 --------------------------
 The Below are CMYK colors
 --------------------------
@@ -21,3 +26,4 @@ The Below are CMYK colors
 +--------+
 |Black   |
 +--------+
+
