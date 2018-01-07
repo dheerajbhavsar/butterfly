@@ -13,7 +13,7 @@ Followings are primary colors:
 Red
 Green
 Blue
-=======
+
 --------------------------
 The Below are CMYK colors
 --------------------------
