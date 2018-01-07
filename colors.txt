@@ -1,4 +1,6 @@
+-------------------
 The rainbow colors
+-------------------
 Red
 Orange
 Yellow
@@ -6,3 +8,16 @@ Green
 Blue
 White
 Violet
+
+--------------------------
+The Below are CMYK colors
+--------------------------
++--------+
+|Cyan    |
++--------+
+|Magenta |
++--------+
+|Yellow  |
++--------+
+|Black   |
++--------+
