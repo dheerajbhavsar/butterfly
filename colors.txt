@@ -1,4 +1,6 @@
+-------------------
 The rainbow colors
+-------------------
 Red
 Orange
 Yellow
@@ -11,3 +13,17 @@ Followings are primary colors:
 Red
 Green
 Blue
+=======
+--------------------------
+The Below are CMYK colors
+--------------------------
++--------+
+|Cyan    |
++--------+
+|Magenta |
++--------+
+|Yellow  |
++--------+
+|Black   |
++--------+
+
