@@ -6,3 +6,8 @@ Green
 Blue
 White
 Violet
+
+Followings are primary colors:
+Red
+Green
+Blue
